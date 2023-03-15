@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1665951606 source:c:\users\shorouk shehab\documents\c++\amit - c project\amit - c project.c
+	"AMIT - C PROJECT.h"
+	"STD_Types.h"
+
+1665951522 c:\users\shorouk shehab\documents\c++\amit - c project\amit - c project.h
+	<stdio.h>
+	<stdlib.h>
+	"STD_Types.h"
+
+1665949077 c:\users\shorouk shehab\documents\c++\amit - c project\std_types.h
+
+1665949926 source:c:\users\shorouk shehab\documents\c++\amit - c project\main.c
+	"AMIT - C PROJECT.h"
+	"STD_Types.h"
+
